@@ -1,32 +1,32 @@
 site_name: Daniel's Knowledge Base
-html_url_prefix: ''
+html_url_prefix: 'Daniel_kb'
 
 
 # The first folder that contains all obsidian files
 # Use full path or relative path, but don't use ~/
-obsidian_folder_path_str: '.' 
+obsidian_folder_path_str: 'daniel_kb' 
 
 # The note that will be used as the index.html 
 # should be in obsidian_folder_path_str
 # Use full path or relative path, but don't use ~/
-obsidian_entrypoint_path_str: 'index.md'
+obsidian_entrypoint_path_str: 'daniel_kb/index.md'
 
 
 # Input and output path of markdown files
 # This can be an absolute or a relative path (relative to the working directory when calling obsidianhtml)
 # Use full path or relative path, but don't use ~/
-md_folder_path_str:  '../Daniel_kb_out/md'
+md_folder_path_str:  'output/md'
 
 # Markdown entrypoint path
 # This has to be md_folder_path_str + '/index.md' when toggles/compile_md == True
 # This can be an absolute or a relative path (relative to the working directory when calling obsidianhtml)
 # Use full path or relative path, but don't use ~/
-md_entrypoint_path_str: '../Daniel_kb_out/md/index.md'
+md_entrypoint_path_str: 'output/md/index.md'
 
 # Output path of HTML files
 # This can be an absolute or a relative path (relative to the working directory when calling obsidianhtml)
 # Use full path or relative path, but don't use ~/
-html_output_folder_path_str: '../Daniel_kb_out/html'
+html_output_folder_path_str: 'output/html'
 
 
 

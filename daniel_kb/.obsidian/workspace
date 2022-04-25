@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "2022_thoughts/操作系统的频繁升级，破坏了人类知识的传承.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "2022_thoughts/操作系统的频繁升级，破坏了人类知识的传承.md",
             "mode": "source"
           }
         },
@@ -60,6 +60,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "49e216c8824cc773",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2022_thoughts/操作系统的频繁升级，破坏了人类知识的传承.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +97,27 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f660c2279ca90c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa1b6fb5b448be2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022_thoughts/操作系统的频繁升级，破坏了人类知识的传承.md"
               }
             }
           }
@@ -101,10 +130,12 @@
   },
   "active": "c4c8cf523aa6fd39",
   "lastOpenFiles": [
-    "index.md",
+    "2022_thoughts/操作系统的频繁升级，破坏了人类知识的传承.md",
+    "2022_daily/2022-04-25.md",
+    "2022-04-25.md",
     "export_obsidian_to_html.md",
+    "index.md",
     "welcome.md",
-    "README.md",
-    "2022_thoughts/操作系统的频繁升级，破坏了人类知识的传承.md"
+    "README.md"
   ]
 }

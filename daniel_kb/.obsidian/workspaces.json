@@ -1,0 +1,267 @@
+{
+  "workspaces": {
+    "01": {
+      "main": {
+        "id": "bc32ee0b66827d53",
+        "type": "split",
+        "children": [
+          {
+            "id": "c4c8cf523aa6fd39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source"
+              }
+            },
+            "group": "eaa2dea497eb806e"
+          },
+          {
+            "id": "8d466b83937ab9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source"
+              }
+            },
+            "group": "eaa2dea497eb806e"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "43d32051619b7b85",
+        "type": "split",
+        "children": [
+          {
+            "id": "67a988a0eb341995",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb27a5a38fbbd36e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "76405596465c86b0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "49e216c8824cc773",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 385
+      },
+      "right": {
+        "id": "4d83b05b10a18742",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f19ba558590c795",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0882b7c65f923385",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "index.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4f660c2279ca90c9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "aa1b6fb5b448be2c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "c4c8cf523aa6fd39"
+    },
+    "02": {
+      "main": {
+        "id": "bc32ee0b66827d53",
+        "type": "split",
+        "children": [
+          {
+            "id": "c4c8cf523aa6fd39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "export_obsidian_to_html.md",
+                "mode": "source"
+              }
+            },
+            "group": "eaa2dea497eb806e"
+          },
+          {
+            "id": "8d466b83937ab9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "export_obsidian_to_html.md",
+                "mode": "source"
+              }
+            },
+            "group": "eaa2dea497eb806e"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "43d32051619b7b85",
+        "type": "split",
+        "children": [
+          {
+            "id": "67a988a0eb341995",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb27a5a38fbbd36e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "76405596465c86b0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "49e216c8824cc773",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 385
+      },
+      "right": {
+        "id": "4d83b05b10a18742",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f19ba558590c795",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0882b7c65f923385",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "export_obsidian_to_html.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4f660c2279ca90c9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "aa1b6fb5b448be2c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "export_obsidian_to_html.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "c4c8cf523aa6fd39"
+    }
+  },
+  "active": "01"
+}
