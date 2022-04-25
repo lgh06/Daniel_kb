@@ -1,0 +1,56 @@
+site_name: Daniel's Knowledge Base
+html_url_prefix: ''
+
+
+# The first folder that contains all obsidian files
+# Use full path or relative path, but don't use ~/
+obsidian_folder_path_str: '.' 
+
+# The note that will be used as the index.html 
+# should be in obsidian_folder_path_str
+# Use full path or relative path, but don't use ~/
+obsidian_entrypoint_path_str: 'index.md'
+
+
+# Input and output path of markdown files
+# This can be an absolute or a relative path (relative to the working directory when calling obsidianhtml)
+# Use full path or relative path, but don't use ~/
+md_folder_path_str:  '../Daniel_kb_out/md'
+
+# Markdown entrypoint path
+# This has to be md_folder_path_str + '/index.md' when toggles/compile_md == True
+# This can be an absolute or a relative path (relative to the working directory when calling obsidianhtml)
+# Use full path or relative path, but don't use ~/
+md_entrypoint_path_str: '../Daniel_kb_out/md/index.md'
+
+# Output path of HTML files
+# This can be an absolute or a relative path (relative to the working directory when calling obsidianhtml)
+# Use full path or relative path, but don't use ~/
+html_output_folder_path_str: '../Daniel_kb_out/html'
+
+
+
+toggles:
+  relative_path_md: True
+  # below line may have bugs
+  relative_path_html: True
+  # Whether external http anchor links should have a target of "_blank"
+  external_blank: True
+  process_all: True
+  features:
+    # Show backlinks at the bottom of each note
+    backlinks:
+      enabled: True
+    styling: 
+      max_note_width: 70vw # not supported for layout: tabs
+    create_index_from_dir_structure:
+      enabled: True
+      exclude_subfolders:
+        - ".git"
+        - "__src"
+        - "md"
+        - "obs.html"
+      exclude_files:
+        - "favicon.ico"
+        - "not_created.html"
+        - "index.html"
