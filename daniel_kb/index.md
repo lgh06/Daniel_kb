@@ -16,3 +16,13 @@ It requires python 3 and pip to build static html. see [here](2022_thoughts/导�
 
 
 > source code located at https://github.com/lgh06/Daniel_kb  
+
+## 分类  
+想法都在这里：
+[[2022_thoughts/导出Obsidian为HTML]]
+
+日记都在这里：
+[[2022_daily/2022-04-26]]
+
+index:  
+[here](obs.html/dir_index.html)
