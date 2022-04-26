@@ -4,28 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "c4c8cf523aa6fd39",
+        "id": "2df2bff461afc1a0",
         "type": "leaf",
+        "dimension": 40.271186440677965,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2022_thoughts/操作系统的频繁升级，破坏了人类知识的传承.md",
-            "mode": "source"
+            "mode": "source",
+            "backlinks": false
           }
         },
-        "group": "eaa2dea497eb806e"
+        "group": "d3545046f78da481"
       },
       {
-        "id": "8d466b83937ab9fa",
+        "id": "48058882d06c3391",
         "type": "leaf",
+        "dimension": 59.728813559322035,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2022_thoughts/操作系统的频繁升级，破坏了人类知识的传承.md",
-            "mode": "source"
+            "mode": "preview",
+            "backlinks": false
           }
         },
-        "group": "eaa2dea497eb806e"
+        "group": "d3545046f78da481"
       }
     ],
     "direction": "vertical"
@@ -128,13 +132,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4c8cf523aa6fd39",
+  "active": "2df2bff461afc1a0",
   "lastOpenFiles": [
     "2022_thoughts/操作系统的频繁升级，破坏了人类知识的传承.md",
-    "2022_daily/2022-04-25.md",
-    "2022-04-25.md",
-    "export_obsidian_to_html.md",
+    "2022_thoughts/导出Obsidian为HTML.md",
+    "2022_daily/2022-04-26.md",
     "index.md",
+    "2022-04-25.md",
     "welcome.md",
     "README.md"
   ]

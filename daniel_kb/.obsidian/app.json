@@ -3,5 +3,8 @@
   "livePreview": false,
   "promptDelete": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "fileSortOrder": "byCreatedTimeReverse"
 }
