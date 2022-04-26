@@ -54,3 +54,8 @@ toggles:
         - "favicon.ico"
         - "not_created.html"
         - "index.html"
+    graph:
+      enabled: True           # Include code to build the graph view per page (default: True)
+      template: 3d
+      styling:
+        show_icon: True
