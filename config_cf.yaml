@@ -42,7 +42,7 @@ toggles:
     backlinks:
       enabled: True
     styling: 
-      max_note_width: 70vw # not supported for layout: tabs
+      max_note_width: 60rem # not supported for layout: tabs
     create_index_from_dir_structure:
       enabled: True
       exclude_subfolders:
