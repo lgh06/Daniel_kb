@@ -9,7 +9,21 @@ It requires python 3.7+ and pip to build static html. see [here](2022_thoughts/å
 
 ## URL
 - https://daniel-kb.pages.dev/
-- https://kb.hapleo.com/
+- https://kb.hapleo.com/  
+
+
+
+<details>
+<summary>link3</summary>
+<p>
+    <a 
+       href="https://kb-1251786267.file.myqcloud.com/index.html" 
+       rel="nofollow" 
+       target="_blank">link 3</a>
+</p>
+  
+</details>
+
 
 
 > source code located at https://github.com/lgh06/Daniel_kb  
