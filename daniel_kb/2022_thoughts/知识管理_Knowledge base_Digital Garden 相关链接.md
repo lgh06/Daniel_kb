@@ -27,7 +27,3 @@ tags:
 
 ## for teams  
 - https://github.com/outline/outline
-
-
-#software
-#idea
