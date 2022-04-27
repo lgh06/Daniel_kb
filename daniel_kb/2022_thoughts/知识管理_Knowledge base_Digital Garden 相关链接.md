@@ -1,3 +1,7 @@
+---
+tags:
+  - soft
+---
 # 知识管理 / Knowledge base / Digital Garden 相关链接
 
 ## 简介及方法论
@@ -13,7 +17,7 @@
 - https://github.com/org-roam/org-roam
 - org mode https://orgmode.org/tools.html
 - https://pandoc.org/
-- https://gohugo.io/
+- https://gohugo.io/#
 - TiddlyWiki DocuWiki MediaWiki Wiki.js
 
 ## 付费软件
@@ -23,3 +27,7 @@
 
 ## for teams  
 - https://github.com/outline/outline
+
+
+#software
+#idea
