@@ -18,6 +18,6 @@ Hexo看起来也不错，可以上传到Cloudflare pages玩玩。
 config.yaml是obsidian-html这个项目要求的。
 obsidian_html.bat是用obsidian-html来build html的，输出在output目录。
 
-
+## Mod
 Cloudflare Pages只支持3.7版本的Python，然而 https://github.com/obsidian-html/obsidian-html  用了3.9版本Python的一些特性，所以fork并修改了以下，代码在这里：
 https://github.com/lgh06/obsidian-html

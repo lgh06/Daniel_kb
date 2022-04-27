@@ -3,9 +3,11 @@
   "livePreview": false,
   "promptDelete": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "obsidian_attachments",
   "showLineNumber": true,
   "readableLineLength": false,
   "fileSortOrder": "byCreatedTimeReverse",
-  "strictLineBreaks": true
+  "strictLineBreaks": false,
+  "useTab": false,
+  "tabSize": 2
 }

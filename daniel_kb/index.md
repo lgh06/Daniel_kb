@@ -14,5 +14,8 @@ It requires python 3.7+ and pip to build static html. see [here](2022_thoughts/å
 
 > source code located at https://github.com/lgh06/Daniel_kb  
 
+## Index Page  
+[here](./obs.html/dir_index.html)
+
 ## Other  
 This site is hosted on cloudflare pages now. thanks CF.
