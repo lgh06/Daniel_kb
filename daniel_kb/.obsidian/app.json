@@ -6,7 +6,7 @@
   "attachmentFolderPath": "attachments_2022",
   "showLineNumber": true,
   "readableLineLength": false,
-  "fileSortOrder": "byCreatedTimeReverse",
+  "fileSortOrder": "byCreatedTime",
   "strictLineBreaks": false,
   "useTab": false,
   "tabSize": 2,

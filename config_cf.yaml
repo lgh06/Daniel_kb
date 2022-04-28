@@ -1,6 +1,9 @@
 site_name: Daniel's Knowledge Base
 html_url_prefix: ''
 
+included_file_suffixes: ['jpg', 'jpeg', 'gif', 'png', 'bmp', 'pdf', 'mp4', 'webm', 'wav', 'mp3', 'html', '7z', 'zip']
+
+
 
 # The first folder that contains all obsidian files
 # Use full path or relative path, but don't use ~/
