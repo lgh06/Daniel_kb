@@ -33,7 +33,7 @@ html_output_folder_path_str: 'output/html'
 toggles:
   relative_path_md: True
   # below line may have bugs
-  relative_path_html: True
+  relative_path_html: False
   # Whether external http anchor links should have a target of "_blank"
   external_blank: True
   process_all: True
