@@ -13,18 +13,6 @@ It requires python 3.7+ and pip to build static html. see [here](2022_thoughts/å
 
 
 
-<details>
-<summary>link3</summary>
-<p>
-    <a 
-       href="https://kb-1251786267.file.myqcloud.com/index.html" 
-       rel="nofollow" 
-       target="_blank">link 3</a>
-</p>
-  
-</details>
-
-
 
 > source code located at https://github.com/lgh06/Daniel_kb  
 
@@ -32,4 +20,21 @@ It requires python 3.7+ and pip to build static html. see [here](2022_thoughts/å
 [here](./obs.html/dir_index.html)
 
 ## Other  
-This site is hosted on cloudflare pages now. thanks CF.
+This site is hosted on cloudflare pages now. thanks CF.  
+
+## Other Other  
+<details>
+<summary>Tencent Cloud Link (maybe not updated, low priority)</summary>
+<p>
+    <a 
+       href="https://kb-1251786267.file.myqcloud.com/index.html" 
+       rel="nofollow" 
+       target="_blank">view link</a> <br />
+    <a 
+     href="https://console.cloud.tencent.com/cos/bucket?bucket=kb-1251786267&region=ap-chengdu" 
+     rel="nofollow" 
+     target="_blank">admin link</a>
+</p>
+  
+</details>
+
