@@ -9,5 +9,6 @@
   "fileSortOrder": "byCreatedTimeReverse",
   "strictLineBreaks": false,
   "useTab": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "showUnsupportedFiles": true
 }
