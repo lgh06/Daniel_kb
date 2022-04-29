@@ -38,3 +38,8 @@ This site is hosted on cloudflare pages now. thanks CF.
   
 </details>
 
+### Other other other
+Software mirrors:  
+https://thoughts.aliyun.com/sharespace/626b4664881e53001ac8cf49
+https://thoughts.teambition.com/sharespace/626b4a668adeb10041b93336
+
