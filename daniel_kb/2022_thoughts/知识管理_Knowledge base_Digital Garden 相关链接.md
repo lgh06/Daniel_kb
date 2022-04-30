@@ -1,6 +1,7 @@
 ---
 tags:
   - soft
+  - 知识管理
 ---
 # 知识管理 / Knowledge base / Digital Garden 相关链接
 
